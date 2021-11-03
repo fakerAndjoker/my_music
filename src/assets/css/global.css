@@ -1,0 +1,17 @@
+/*我的项目*/
+html, body, #app {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /*min-height: 1900px;*/
+    /*min-width: 940px;*/
+}
+
+span {
+    font-weight: 200;
+}
+
+.el-table td, .el-table th.is-leaf {
+    border-bottom: none;
+}
